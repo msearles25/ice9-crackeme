@@ -1,1 +1,1 @@
-A simple keygen for a crackme called Ice9. This was made as a way to learn reverse engineering.
+Ice9 is a software made to be cracked. This is a keygen made for educational purposes to learn reverse engineering.
